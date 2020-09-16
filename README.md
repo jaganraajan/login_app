@@ -1,6 +1,6 @@
 # vision
 
-A add-on Flutter application for mobile support of authenticating and communicating with external server to display dashboards.
+A simple login page designed in Flutter
 
 <table>
   <tr>
